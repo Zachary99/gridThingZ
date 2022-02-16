@@ -1,4 +1,4 @@
-# Grid Things
+# Grid Thingz
 
 Grid Things is a lightweight python library created to manage 2d data structures in a simple and user-friendly way.
 [Wiki](https://github.com/Zachary99/gridThings/wiki/Home)
