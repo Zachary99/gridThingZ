@@ -74,5 +74,9 @@ def findCol(id, c, val):
     
     return False
 
+def findPos(id, x, y):
+    grid = grids[str(id)]
+    return grid[y][x]
+
 def destroy(id):
     grids[id].pop()
