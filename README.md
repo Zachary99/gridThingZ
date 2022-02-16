@@ -1,7 +1,7 @@
-# Grid Thingz
+# Grid ThingZ
 
-Grid Thingz is a lightweight python library created to manage 2d data structures in a simple and user-friendly way.
-[Wiki](https://github.com/Zachary99/gridThings/wiki/Home)
+Grid ThingZ is a lightweight python library created to manage 2d data structures in a simple and user-friendly way.
+* [Wiki](https://github.com/Zachary99/gridThingZ/wiki/Home)
 
 ## Installation
 
