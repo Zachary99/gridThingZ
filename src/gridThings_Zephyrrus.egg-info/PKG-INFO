@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: gridThings-Zephyrrus
-Version: 0.0.1
+Version: 1.0.1
 Summary: A small package made to modify the numpy 2d data structure systed for ease of use.
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/zephyrrus/gridThings
 Author: Zephyrrus
 Author-email: zachary.ehle@gmail.com
 License: UNKNOWN
@@ -15,5 +15,24 @@ Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-UNKNOWN
+# Grid Things
+
+Grid Things is a lightweight python library created to manage 2d data structures in a simple and user-friendly way.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Grid Things.
+
+```bash
+pip install gridThings-Zephyrrus
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
