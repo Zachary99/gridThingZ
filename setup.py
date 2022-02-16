@@ -11,9 +11,10 @@ setuptools.setup(
     description="A small package made to modify the numpy 2d data structure systed for ease of use.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Zachary99/gridThingZ",
+    url="https://github.com/Zachary99/gridThingZ/",
     project_urls={
-        "Bug Tracker": "https://github.com/Zachary99/gridThingZ/issues",
+        "Bug Tracker": "https://github.com/Zachary99/gridThingZ/issues/",
+        "Wiki": "https://github.com/Zachary99/gridThingZ/wiki/",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
